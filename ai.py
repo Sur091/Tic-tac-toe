@@ -136,7 +136,7 @@ frame_rate = 60
 
 edge_thickness = 2
 
-board = Board("ai")
+board = Board()
 
 font = py.font.Font("freesansbold.ttf", 32)
 
